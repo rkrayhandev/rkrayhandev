@@ -1,8 +1,7 @@
 ## Hi there 👋 I am Rayhan Kabir
 
 
-rkrayhandev/rkrayhandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am an experienced WordPress developer with strong skills in Elementor, responsive design, and theme customization. I can efficiently build, customize, and fix WordPress websites, following design instructions from Figma or similar tools. I am reliable, detail-oriented, and committed to delivering quality work on time.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
